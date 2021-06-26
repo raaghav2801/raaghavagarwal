@@ -441,7 +441,7 @@ footer .footer-socials{
 footer .copyright{
     color: var(--ternary);
 }
-@media(max-width:805px){
+@media(max-width:790px){
     .nav-trigger{
         display: block;
     }
