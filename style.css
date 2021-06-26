@@ -533,5 +533,10 @@ footer .copyright{
     grid-template-columns: 1fr;
     grid-gap: 2rem;
     margin-bottom: 2rem;
- }    
+    }
+    .hero .right p{
+    color: var(--pure);
+    text-align: left;
+    justify-items: center;
+    }
 }
